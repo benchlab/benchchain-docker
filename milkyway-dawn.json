@@ -1,0 +1,71 @@
+
+{
+  "galaxy_key": "benchchain-milkyway",
+  "rocketeers": [
+    {
+      "uni_key": {
+        "type": "ed25519",
+        "value": "DBD9A46C45868F0A37C92B53113C09B048FBD87B5FBC2F8B199052973B8FAA36"
+      },
+      "fuel": 10,
+      "name": "benchrocket1"
+    }
+  ],
+  "app_options": {
+    "accounts": [{
+      "name": "benchrocket1",
+      "uni_key": {
+        "type": "ed25519",
+        "data": "DBD9A46C45868F0A37C92B53113C09B048FBD87B5FBC2F8B199052973B8FAA36"
+      },
+      "coins": [
+        {
+          "coinname": "bend",
+          "amount": 1000000000
+        },
+        {
+          "coinname": "bent",
+          "amount": 1000000000
+        }
+      ]
+    }, {
+      "name": "jared",
+      "address": "C471FB670E44D219EE6DF2FC284BE38793ACBCE1",
+      "coins": [
+        {
+          "coinname": "bend",
+          "amount": 222
+        }
+      ]
+    }, {
+      "name": "michaelx",
+      "address": "1234ABCDD18E8EFE3FFC4B0506BF9BF8E5B0D9E9",
+      "uni_key": {
+        "type": "ed25519",
+        "data": "177C0AC45E86257F0708DC085D592AB22AAEECD1D26381B757F7C96135921858"
+      },
+      "coins": [
+        {
+          "coinname": "bent",
+          "amount": 333
+        }
+      ]
+    }, {
+      "name": "stan",
+      "uni_key": {
+        "type": "secp256k1",
+        "data": "02AA8342F63CCCCE6DDB128525BA048CE0B2993DA3B4308746E1F216361A87651E"
+      },
+      "coins": [
+        {
+          "coinname": "bend",
+          "amount": 444
+        },
+        {
+          "coinname": "bent",
+          "amount": 201
+        }
+      ]
+    }]
+  }
+}
