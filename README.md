@@ -1,4 +1,4 @@
-# BenchChains Testnet Official Docker Image
+# BenchChain Testnet Official Docker Image
 The Official Docker Image For BenchChain's Testnet
 
 
